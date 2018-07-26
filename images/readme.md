@@ -1,0 +1,2 @@
+# Statics
+- Simple image hosting.
