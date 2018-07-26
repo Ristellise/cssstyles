@@ -1,0 +1,265 @@
+.res-nightmode #header .pagename a {
+     height: 115px;
+}
+ #header .pagename a {
+     background: url("https://i.imgur.com/iivhMfW.png");
+     background-position: 0 0;
+     background-repeat: no-repeat;
+     height: 115px;
+}
+ #header {
+     box-shadow: 0 5px 1.5px 0 rgba(255, 255, 255, 0.64), 0 0 4px 0 rgba(0,0,0,.12);
+}
+ .res #search #searchexpando label {
+     color: #d6d6d6;
+}
+ .side .md ul {
+     color: #c6e2fb;
+     background: none;
+}
+ .side .md li {
+     color: #c6e2fb;
+     background: none;
+}
+ .side .md p {
+     color: #c6e2fb;
+     background: none;
+}
+ #search input[type=text] {
+     background: #4e4e4e;
+}
+ #search #searchexpando {
+     background: #353535;
+}
+ .titlebox {
+     background: #232323;
+}
+ .titlebox:before {
+     color: #b7b7b7;
+}
+ .res .RESshortcutside, .res .RESDashboardToggle {
+     color: #7cb7fd;
+}
+ .titlebox .users-online .number {
+     color: #6c8ef1;
+}
+ .md code, .md code {
+     background: #000;
+}
+ #siteTable {
+     background-color: rgba(53, 53, 53,0.4);
+}
+ #siteTable .stickied {
+     border-left: 5px solid #e00f00;
+}
+ .md {
+     background: transparent;
+}
+ body {
+     background: url("https://i.imgur.com/3A1B8Wf.jpg") no-repeat fixed center;
+     background-color: black;
+}
+ .side::before {
+     background: url("https://i.imgur.com/YT7SmMB.png");
+}
+ .side:after {
+     background: darkslategrey;
+}
+ .entry .res0selected {
+     background: #353535;
+}
+ .side .md ul {
+     background: none;
+}
+ .side .titlebox {
+     background: #353535;
+}
+ .link .entry .tagline a {
+     color: #a1dbff;
+}
+ .linkflairlabel {
+     color: #170101;
+}
+ .flair {
+     color: #7ec1c7;
+}
+ .linkflair-Translations .linkflairlabel {
+     background: #e62264;
+}
+ .side .md h1, .side .md h2, .side .md h3, .side .md h4 {
+     color: #02525a;
+}
+ .titlebox .md h3, .titlebox .md h3 a, .titlebox h1, .titlebox h1 a, .titlebox .md h2, .titlebox .md h2 a, .titlebox .md h4, .titlebox .md h4 a {
+     color: #b7b7b7;
+}
+ body.listing-page>.content {
+     background: transparent;
+}
+ .thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {
+     color: #ffffff;
+}
+ .content .thing .title:visited, .content .thing.visited .title {
+     color: #b7b7b7;
+}
+ .entry.res-selected, .entry.res-selected .md-container {
+     background-color: rgba(53,53,53,0.0) !important;
+     color:white;
+}
+ .titlebox form.toggle, .leavemoderator {
+     background: none;
+     color: white;
+}
+.titlebox .tagline:after {
+    background: transparent;
+}
+ body.listing-page>.content, body.other-discussions-page>.content, .comments-page .link, #bottom-comments:not(.child)>.sitetable>.comment, #images, .sponsorshipbox, .stylesheet-customize-container .pretty-form, .account-activity-box, .side .titlebox, #previoussearch #moresearchinfo, #ad-frame, #ad_main, .wiki-page .wiki-page-content, .linefield, .submit-page .roundfield, .login-form-side, #ad_main_top, .search-result-subreddit, .search-result-listing+.search-result-listing .contents, [class] .searchfacets {
+     background-color: rgba(0,0,0,0.5);
+}
+
+.side .sidecontentbox {
+    background-color: rgba(0,0,0,0.7);
+}
+
+ .commentarea>.sitetable>.comment {
+     background-color: rgba(0, 0, 0, 0.43);
+}
+ .res .commentarea>.usertext {
+     padding-top: 0px !important;
+     margin-top: 0px !important;
+}
+ .commentarea>.usertext {
+     background-color: rgba(0,0,0,0.5);
+}
+ body .content textarea a {
+     color: #b1d8ff;
+}
+ .md a:visited {
+     color: #68b3ff;
+}
+ .entry {
+     color:white !important;
+}
+ .link .usertext .md {
+     color: #d4d4d4;
+}
+ .comment .usertext .md {
+     color: white;
+}
+ .comment .entry .tagline {
+     color: #d2d2d2;
+}
+ .sidecontentbox .title h1 {
+}
+ .res-commentBoxes .comment .comment, .res-commentBoxes .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+     background-color: rgb(0, 0, 0,0.0) !important;
+}
+ .res-commentBoxes .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+     background-color: rgb(0, 0, 0,0.0) !important;
+}
+.comments-page .side .titlebox .md blockquote ul {
+    background: rgba(0, 188, 212, 0.4);
+}
+.listing-page .side .titlebox .md blockquote ul {
+    background: rgba(0, 188, 212, 0.4);
+}
+ .comment .author {
+     color: #34d0ba;
+}
+ span.score {
+     color: coral !important;
+}
+ .side .titlebox h1.redditname:before {
+     background: rgba(255, 255, 255, 0.28);
+}
+ .comments-page .side .linkinfo {
+     background: rgba(255, 255, 255, 0.28);
+}
+ .voteWeight {
+     background-color: rgb(96, 125, 139) !important;
+     border-radius: 3px !important;
+     color: #000 !important;
+}
+ .RESUserTagImage {
+     background-color: cyan;
+     border-radius: 3px !important;
+}
+ .comments-page .side .linkinfo .date {
+     color: #112696;
+}
+.side .md a {
+    border-radius:4px;
+}
+ .side .md>h1:after {
+     border-color: transparent;
+}
+ .commentarea .panestack-title .title {
+     color: #FFEB3B;
+}
+ .commentarea .panestack-title {
+     color: #dac933 !important;
+     background-color: rgba(0,0,0,0.5) !important;
+}
+a[href="#s"]::after {
+    background: rgba(0, 0, 0, 0.5);
+    color: transparent;
+    border-radius: 3px;
+}
+a[href="#s"] {
+    transition:visibility s linear 0.1s, visibility 0.1s linear;
+}
+
+.commentarea .menuarea {
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 0px 0px 4px 4px;
+}
+.titlebox .md ul li {
+    left: 0px;
+    transition: 0.5s;
+}
+.titlebox .md ul:hover {
+    left: 10px;
+    transition: 0.5s;
+}
+.titlebox .md ul li:hover {
+    background-color: transparent !important;
+    left: 10px;
+}
+.side .md a {
+    left: 0px;
+}
+.side .md a:hover {
+    background-color: rgba(255,255,255,0.1);
+    left: 5px;
+    opacity: 1;
+}
+body .content textarea:focus {
+    background-color:transparent;
+    color: white;
+}
+.commentingAs {
+    color: white;
+}
+.res .content .RESBigEditorPop {
+    color: white;
+}
+.usertext .markhelp {
+    color: antiquewhite;
+}
+.md {
+    color: white;
+}
+.usertext .markhelp tr {
+    background-color: transparent !important;
+}
+.usertext .markhelp td {
+    font-weight: bold;
+}
+.md pre {
+    background-color: transparent;
+}
+.res-show-link {
+    background: rgba(255, 255, 255, 0.71) !important;
+}
+.titlebox:before {
+    color: #d8d8d8;
+}
