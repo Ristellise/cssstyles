@@ -11,3 +11,6 @@
 .wds-global-navigation__content-bar-left, .wds-global-navigation__content-bar-right {
 	height: 40px;
 }
+.featured-video {
+	padding-top: 0;
+}
